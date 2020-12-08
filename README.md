@@ -1,7 +1,7 @@
 # Convolutional Neural Networks (CNN) for Image Classification
 ### CIFAR-10 Image Classification
 
-This project uses images and labeks from the CIFAR-10 dataset to build an image classification model.  The data can be loaded directly using the tensorflow package using the code below.
+This project uses images and labels from the CIFAR-10 dataset to build an image classification model.  The data can be loaded directly using the tensorflow package using the code below.
 
 ```
 import tensorflow as tf
